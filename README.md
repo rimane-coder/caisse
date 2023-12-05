@@ -1,6 +1,6 @@
   # caisse
 
-# l'expliquation pourexécuter les tests localement dans un projet Node.js utilisant Mocha comme framework de test. 
+# l'expliquation pour exécuter les tests localement dans un projet Node.js utilisant Mocha comme framework de test. 
 
   1 - Installation de Node.js dans la machine
   2 - Installation des dépendances du projet :
@@ -12,7 +12,7 @@
     pour l'ajouter .
  4- instllation de Mocha  
             npm install --save-dev mocha
-  4-  Exécuter la commande 
+  5-  Exécuter la commande 
             npx mocha pour 
   effectuer les tests
 
