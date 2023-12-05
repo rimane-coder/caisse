@@ -20,4 +20,7 @@
 
   #Remarque 
      -l'application affiche la solution optimale d'un montant à rendre demander par l'utilisateur en mode console
+     -pour démarer l'application exécuter la commande 
+                  node checkoutControler.js 
+          dans le terminal. 
  
