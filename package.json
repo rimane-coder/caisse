@@ -1,0 +1,23 @@
+{
+  "name": "caisse",
+  "version": "1.0.0",
+  "main": "caiseControler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "mock-stdin": "^1.0.0",
+    "sinon": "^17.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
